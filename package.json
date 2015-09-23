@@ -1,0 +1,24 @@
+{
+  "name": "meteorite-landings",
+  "version": "1.0.0",
+  "description": "Meteorite landings dataset from NASA, mapped and filterable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobroufa/meteorite-landings.git"
+  },
+  "keywords": [
+    "nasa",
+    "meteorite",
+    "mapping"
+  ],
+  "author": "Jacob M. Roufa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacobroufa/meteorite-landings/issues"
+  },
+  "homepage": "https://github.com/jacobroufa/meteorite-landings#readme"
+}
